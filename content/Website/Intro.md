@@ -2,6 +2,10 @@
 title: Intro
 draft: true
 tags:
+  - feature/filter
+  - component
+  - feature
+  - FF0000
 ---
 The introduction goes here bud
 
