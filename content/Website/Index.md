@@ -10,4 +10,4 @@ longform:
   ignoredFiles: []
 ---
 aqui é a parte de 
-[[https://www.youtube.com/watch[]()?v=RN_sp5onvFc&amp;t=1413s&amp;ab_channel=TheoVon]]
+https://youtu.be/RN_sp5onvFc?si=ILsXyI1_QnmQl35L
